@@ -481,8 +481,8 @@ var PROJECTS = [
         thumbnail: 'assets/planet-home.png',
         image: 'assets/planet-home-detail.png',
         tags: [_tags_data__WEBPACK_IMPORTED_MODULE_0__["TAGS"].GAME_DEV, _tags_data__WEBPACK_IMPORTED_MODULE_0__["TAGS"].UNITY],
-        about: 'A survival game where you must pull floating islands into yours to expand your home and gather resources. Made in Unity by a small team over 3\
-    days. The theme was "what home means to you."',
+        about: 'A survival game where you must pull floating islands into yours to expand your home and gather resources. Made in Unity by a small team in 48\
+    hours. The theme was "what home means to you."',
         buttons: [{ icon: 'fa-gamepad', label: 'Play on itch.io', url: 'https://leo-li.itch.io/planet-home' },
             { icon: 'fa-gamepad', label: 'See GGJ 2019 page', url: 'https://globalgamejam.org/2019/games/planet-home-2' },
             { icon: 'fa-github', label: 'GitHub', url: 'https://github.com/nansonzheng/GGJ2019SCAF/' }] },
